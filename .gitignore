@@ -1,0 +1,48 @@
+# Local secrets (keep sanitized examples trackable)
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Frontend
+node_modules/
+dist/
+build/
+coverage/
+playwright-report/
+test-results/
+
+# Data and model outputs: document provenance; do not commit raw datasets
+/data/
+/artifacts/
+/mlruns/
+/mlartifacts/
+*.parquet
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.pth
+
+# Local files
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.sqlite
+*.sqlite3
