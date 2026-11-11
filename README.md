@@ -33,6 +33,8 @@ These choices are provisional until implementation validates them. Start with a 
 
 - [Problem, scope, and acceptance criteria](docs/problem-statement.md)
 - [120-session project roadmap](docs/roadmap.md)
+- [Grocery owner interview guide](docs/owner-interview-guide.md)
+- [Day 2 record](docs/progress/day-002.md)
 - [Day 1 record](docs/progress/day-001.md)
 - [Contribution and commit workflow](CONTRIBUTING.md)
 
@@ -44,4 +46,4 @@ Benchmark results, simulated business outcomes, and real pilot outcomes will be 
 
 ## Development
 
-Day 1 contains documentation and repository conventions only. Application setup commands will be added when the backend and frontend exist. Raw datasets, secrets, and generated model artifacts are excluded from Git.
+FreshOps is in product discovery. See the progress records above for the work completed so far. Application setup commands will be added when the backend and frontend exist. Raw datasets, secrets, and generated model artifacts are excluded from Git.
