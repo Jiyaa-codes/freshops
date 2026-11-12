@@ -33,6 +33,8 @@ These choices are provisional until implementation validates them. Start with a 
 
 - [Problem, scope, and acceptance criteria](docs/problem-statement.md)
 - [120-session project roadmap](docs/roadmap.md)
+- [FreshRetailNet forecasting data review](docs/freshretailnet-forecasting.md)
+- [Day 3 record](docs/progress/day-003.md)
 - [Grocery owner interview guide](docs/owner-interview-guide.md)
 - [Day 2 record](docs/progress/day-002.md)
 - [Day 1 record](docs/progress/day-001.md)
